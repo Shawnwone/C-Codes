@@ -7,7 +7,7 @@
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:\\Users\\Shawn\\Desktop\\My C Files\\C Codes\\Learning\\${fileBasenameNoExtension}.exe",//只需要把E:\\C++改成自己代码的工作路径即可
+            "program": "C:\\Users\\Shawn\\Desktop\\My C Files\\C Codes\\Temp\\${fileBasenameNoExtension}.exe",//只需要把E:\\C++改成自己代码的工作路径即可
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
